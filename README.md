@@ -1,3 +1,2 @@
 # thedudeofdc.github.io
-A collection of game files for Unblocked+.
-Please don't sue me.
+A collection of files used by Unblocked+
